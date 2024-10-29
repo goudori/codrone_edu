@@ -13,7 +13,7 @@ drone.takeoff()
 
 drone.hover(3)
 # 前方フリップする
-drone.flip("forward")
+drone.flip("front")
 
 
 # 着陸
